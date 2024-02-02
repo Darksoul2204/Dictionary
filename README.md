@@ -1,0 +1,2 @@
+# Dictionary
+GDSC Solution Challenge
